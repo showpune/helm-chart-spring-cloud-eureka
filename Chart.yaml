@@ -20,12 +20,12 @@ version: 0.1.0
 # incremented each time you make changes to the application.
 appVersion: 1.16.0
 
-dependencies:
-  - name: postgresql
-    version: 0.8.3
-    repository: https://kubernetes-charts.storage.googleapis.com/
-    condition: postgresql.enabled
-  - name: mysql
-    version: 0.6.0
-    repository: https://kubernetes-charts.storage.googleapis.com/
-    condition: mysql.enabled
+# dependencies:
+#   - name: postgresql
+#     version: 0.8.3
+#     repository: https://kubernetes-charts.storage.googleapis.com/
+#     condition: postgresql.enabled
+#   - name: mysql
+#     version: 0.6.0
+#     repository: https://kubernetes-charts.storage.googleapis.com/
+#     condition: mysql.enabled
