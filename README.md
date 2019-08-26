@@ -4,7 +4,7 @@
 
 通过`helm-chart-spring-cloud-eureka`可以快速创建[spring cloud oss](https://spring.io/projects/spring-cloud-netflix)套件里的注册中心服务，即[eureka集群](https://cloud.spring.io/spring-cloud-netflix/multi/multi_spring-cloud-eureka-server.html)。效果如下图所示：
 
-![eureka-web](./images/eureka-web.png)
+![eureka-web](./images/eureka-web.PNG)
 
 ## 安装使用
 
