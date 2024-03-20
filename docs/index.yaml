@@ -3,12 +3,12 @@ entries:
   helm-chart-spring-cloud-eureka:
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2024-03-20T13:39:27.096774551+08:00"
-    description: A Helm chart for Kubernetes
-    digest: adee874900404a4aefb29113d7b4757235535cbbf10a320257fe9beb5dd22051
+    created: "2024-03-20T14:04:03.557381264+08:00"
+    description: A Helm chart for Spring Cloud Eureka
+    digest: 49dbde38ddf78170ebea8d12c0bc125005d24dda0d78df3ba0376b67b24c438b
     name: helm-chart-spring-cloud-eureka
     type: application
     urls:
     - helm-chart-spring-cloud-eureka-0.1.0.tgz
     version: 0.1.0
-generated: "2024-03-20T13:39:27.093554189+08:00"
+generated: "2024-03-20T14:04:03.554181789+08:00"
