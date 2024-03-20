@@ -1,0 +1,12 @@
+name: eureka-web
+version: 2.3.5
+description: Spring Eureka
+icon: ./images/eureka-web.PNG
+url: https://eurkea.io
+
+tags:
+  - Official
+  - Extended Workload
+  - GitOps
+  - Helm
+  - Kubernetes
