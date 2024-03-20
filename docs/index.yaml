@@ -3,7 +3,7 @@ entries:
   helm-chart-spring-cloud-eureka:
   - apiVersion: v1
     appVersion: 1.16.0
-    created: "2024-03-20T14:27:23.696322909+08:00"
+    created: "2024-03-20T14:30:04.198614624+08:00"
     description: A Helm chart for OSS Spring Cloud Eureka
     digest: fc8e7b00f53cf9ef215e106e25bc4a3aae2a1bf2ca9a572fb93ee374784b3b10
     name: helm-chart-spring-cloud-eureka
@@ -11,14 +11,4 @@ entries:
     urls:
     - helm-chart-spring-cloud-eureka-0.1.1.tgz
     version: 0.1.1
-  - apiVersion: v1
-    appVersion: 1.16.0
-    created: "2024-03-20T14:27:23.690529808+08:00"
-    description: A Helm chart for OSS Spring Cloud Eureka
-    digest: 780123c79261e1834e51119c186cfa08a3935800f237cbd1adcd69a96a1bd430
-    name: helm-chart-spring-cloud-eureka
-    type: application
-    urls:
-    - helm-chart-spring-cloud-eureka-0.1.0.tgz
-    version: 0.1.0
-generated: "2024-03-20T14:27:23.679252766+08:00"
+generated: "2024-03-20T14:30:04.189401146+08:00"
